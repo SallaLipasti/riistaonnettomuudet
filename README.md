@@ -11,7 +11,7 @@ Kysymyksiin etsitään vastauksia data-analytiikan menetelmin, ja tuloksia havai
 
 # Aineisto
 
-Projektin aineisto on ladattu Tilastokeskuksen [Avoin data](https://stat.fi/org/avoindata/index.html) -sivustolta 16.12.2024, ja se sisältää dataa Suomessa sattuneista riistaonnettomuuksista sijainnin mukaan vuosina 2017-2019. Aineisto on yhtenä CSV-tiedostona. Riistaonnettomuudet-tilasto on tuotettu kokeellisena tilastona, ja lisätietoa siitä on luettavissa Tilastokeskuksen [Riistaonnettomuudet-sivulta](https://stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/index.html).     
+Projektin aineisto on ladattu Tilastokeskuksen [Avoin data](https://stat.fi/org/avoindata/index.html) -sivustolta 16.12.2024, ja se sisältää dataa Suomessa sattuneista riistaonnettomuuksista sijainnin mukaan vuosina 2017-2021. Aineisto on yhtenä CSV-tiedostona. Riistaonnettomuudet-tilasto on tuotettu kokeellisena tilastona, ja lisätietoa siitä on luettavissa Tilastokeskuksen [Riistaonnettomuudet-sivulta](https://stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/index.html).     
 
 # Käytetyt kirjastot
 
